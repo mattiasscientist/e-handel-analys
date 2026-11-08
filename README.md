@@ -48,7 +48,7 @@ Har arbetat med sina respektive frågeställningar och utvecklat tillhörande an
 
 **Mattias**
 
-Ansvarar för sin tilldelade frågeställning och kompletterande analys, som presenteras i `report1.ipynb`.
+Ansvarar för sin tilldelade frågeställning och kompletterande analys, som presenteras i `anomalies.ipynb`.
 
 ## Slutrapport
 
