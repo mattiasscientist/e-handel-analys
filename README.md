@@ -54,6 +54,6 @@ Ansvarar för sin tilldelade frågeställning och kompletterande analys, som pre
 
 Projektets huvudsakliga resultat, visualiseringar, slutsatser och rekommendationer presenteras i **`notebooks/report.ipynb`**.
 
-Mattias kompletterande analys presenteras i **`notebooks/report1.ipynb`**.
+Mattias kompletterande analys presenteras i **`notebooks/anomalies.ipynb`**.
 
 Övriga notebooks och Pythonfiler har behållits som dokumentation av gruppens arbetsprocess.
