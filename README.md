@@ -14,7 +14,7 @@ För att underlätta granskningen har vi sammanställt de filer som är relevant
 | Fil | Beskrivning |
 |---|---|
 | `notebooks/report.ipynb` | Gruppens gemensamma huvudrapport |
-| `notebooks/report1.ipynb` | Mattias kompletterande analys |
+| `anomalies.ipynb` | Mattias kompletterande analys |
 | `src/metrics.py` | Funktioner för beräkning av nyckeltal och statistiska mått |
 | `src/viz.py` | Funktioner för visualisering av analysresultaten |
 | `src/io_utils.py` | Funktion för datainläsning |
