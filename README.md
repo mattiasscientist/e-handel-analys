@@ -14,7 +14,7 @@ För att underlätta granskningen har vi sammanställt de filer som är relevant
 | Fil | Beskrivning |
 |---|---|
 | `notebooks/report.ipynb` | Gruppens gemensamma huvudrapport |
-| `notebooks/report1.ipynb` | Mattias kompletterande analys |
+| `anomalies.ipynb` | Mattias kompletterande analys |
 | `src/metrics.py` | Funktioner för beräkning av nyckeltal och statistiska mått |
 | `src/viz.py` | Funktioner för visualisering av analysresultaten |
 | `src/io_utils.py` | Funktion för datainläsning |
@@ -48,12 +48,12 @@ Har arbetat med sina respektive frågeställningar och utvecklat tillhörande an
 
 **Mattias**
 
-Ansvarar för sin tilldelade frågeställning och kompletterande analys, som presenteras i `report1.ipynb`.
+Ansvarar för sin tilldelade frågeställning och kompletterande analys, som presenteras i `anomalies.ipynb`.
 
 ## Slutrapport
 
 Projektets huvudsakliga resultat, visualiseringar, slutsatser och rekommendationer presenteras i **`notebooks/report.ipynb`**.
 
-Mattias kompletterande analys presenteras i **`notebooks/report1.ipynb`**.
+Mattias kompletterande analys presenteras i **`notebooks/anomalies.ipynb`**.
 
 Övriga notebooks och Pythonfiler har behållits som dokumentation av gruppens arbetsprocess.
